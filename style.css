@@ -90,7 +90,7 @@ min-height: 2000px;
 	min-height: 100vh;
 	display: flex;
 	align-items: center;
-	background-image: url('/Website/img/wp2.jpeg');
+	background-image: url('wp2.jpeg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
